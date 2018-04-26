@@ -1,12 +1,16 @@
 .background {
-    background-image: url('sky.jpg');
+    background-color: #efefef;
     background-size: cover;
     background-position: 50%;
     background-attachment: fixed;
-    height: 800px;
     width: 1460px;
     color: black;
 }
+
+.heading {
+    height: 800px;
+}
+
 .title {
     font-family: 'Roboto', sans-serif;
     font-size: 56px;
@@ -48,12 +52,21 @@
 }
 .fyable{
     height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .herding {
     height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .pinup {
     height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
