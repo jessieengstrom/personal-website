@@ -1,0 +1,43 @@
+.background {
+    background-image: url('sky.jpg');
+    background-size: cover;
+    background-position: 50%;
+    background-attachment: fixed;
+    height: 800px;
+    width: 1460px;
+    color: black;
+}
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 56px;
+}
+
+.name {
+    padding-top: 233px;
+    padding-bottom: 0;
+
+}
+
+.behind {
+    position: absolute;
+    height: 63%;
+    width: 80%;
+    background-color: #fff;
+    opacity: .3;
+    z-index: 0;
+    margin-top: 25%;
+    margin-left: 7%;
+}
+
+.me {
+    height: 300px;
+}
+
+.about {
+    height: 100px;
+}
+
+.aboutme {
+    font-family: 'Roboto', sans-serif;
+    height: 600px;
+}
