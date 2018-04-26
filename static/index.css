@@ -39,5 +39,21 @@
 
 .aboutme {
     font-family: 'Roboto', sans-serif;
-    height: 600px;
+    height: 800px;
+}
+
+.desc {
+    font-size: 24px;
+    margin-top: 80px;
+}
+.fyable{
+    height: 300px;
+}
+
+.herding {
+    height: 300px;
+}
+
+.pinup {
+    height: 300px;
 }
