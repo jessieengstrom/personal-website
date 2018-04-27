@@ -1,1 +1,1 @@
-web: gunicorn personal-website:
+web: gunicorn python: servery.py
