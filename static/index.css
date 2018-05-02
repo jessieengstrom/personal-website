@@ -9,6 +9,7 @@
 
 .heading {
     height: 325px;
+    width: 1500px;
 }
 
 .title {
@@ -24,17 +25,20 @@
 
 .arr {
     height: 300px;
+    width: 1500px;
     background-color:  #e0e2ae;
 }
 
 
 .me {
     height: 400px;
+    width: 1500px;
     margin-top: 50px;
 }
 
 .about {
     height: 50px;
+    width: 1500px;
 }
 
 .aboutme {
@@ -85,12 +89,14 @@
 
 .projects {
     height: 625px;
+    width: 1500px;
     font-family: 'Roboto', sans-serif;
     font-size: 56px;
 }
 
 .filler {
     height: 80px;
+    width: 1500px;
 }
 
 .connect {
