@@ -76,18 +76,16 @@
 .li {
     height: 100px;
     margin-bottom: 50px;
-    margin-left: 100px;
 }
 
 .git {
     height: 100px;
     width: 100px;
     margin-bottom: 50px;
-    margin-left: 50px;
 }
 
 .projects {
-    height: 625px;
+    height: 650px;
     width: 1500px;
     font-family: 'Roboto', sans-serif;
     font-size: 56px;
