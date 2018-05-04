@@ -8,7 +8,7 @@
 }
 
 .heading {
-    height: 325px;
+    height: 420px;
     width: 1500px;
 }
 
@@ -35,13 +35,13 @@
 }
 
 .about {
-    height: 50px;
+    height: 40px;
     width: 1500px;
 }
 
 .aboutme {
     font-family: 'Roboto', sans-serif;
-    height: 625px;
+    height: 720px;
     width: 1500px;
     color: #424242;
 }
@@ -74,18 +74,28 @@
 }
 
 .li {
-    height: 100px;
+    height: 50px;
+    width: 50px;
     margin-bottom: 50px;
+    margin-left: 80px;
 }
 
 .git {
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     margin-bottom: 50px;
+    margin-left: 80px;
+}
+
+.email {
+    height: 50px;
+    width: 50px;
+    margin-bottom: 50px;
+    margin-left: 80px;
 }
 
 .projects {
-    height: 650px;
+    height: 720px;
     width: 1500px;
     font-family: 'Roboto', sans-serif;
     font-size: 56px;
@@ -99,6 +109,8 @@
 .connect {
     font-family: 'Roboto', sans-serif;
     font-size: 56px;
+    height: 50px;
+    width: 1500px;
 }
 
 .pro {
