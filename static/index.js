@@ -10,4 +10,4 @@ var arrowBounce = function() {
 };
 
 // run the arrowBounce function every 800ms
-setInterval(arrowBounce, 800);
+setInterval(arrowBounce, 700);
